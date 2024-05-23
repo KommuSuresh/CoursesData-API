@@ -5,7 +5,8 @@
   {
     "id": "14n56op78-901q-23rs-tu45-678901wxy234",
     "title": "K.G.F: Chapter 1",
-    "movie_trailer": "https://www.youtube.com/watch?v=fnGW4iQzVLw",
+    "movie_trailer": "https://www.youtube.com/embed/gKizDojsdvs?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/62b0341165224bef64ee8c14fd2cb363",
     "view_count": "5.7M",
     "published_at": "Dec 21, 2018",
     "channel": {
@@ -79,7 +80,8 @@
   {
     "id": "23r56op78-901s-23tu-vw45-678901xyz234",
     "title": "K.G.F: Chapter 2",
-    "movie_trailer": "https://www.youtube.com/watch?v=bDTUFufX-1s",
+    "movie_trailer": "https://www.youtube.com/embed/bDTUFufX-1s?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/8201f1ce6d62111ee64fbb6b54baa3b0",
     "view_count": "6.2M",
     "published_at": "Sep 10, 2021",
     "channel": {
@@ -153,7 +155,8 @@
   {
     "id": "1a2b3c4d-5e6f-7g8h-9i0j-123456klmno",
     "title": "RRR - The Epic Battle",
-    "movie_trailer": "https://www.youtube.com/watch?v=NgBoMJy386M",
+    "movie_trailer": "https://www.youtube.com/embed/NgBoMJy386M?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/d5a75e655054c3f85ebc1822c666eae2",
     "view_count": "10M",
     "published_at": "Oct 22, 2021",
     "channel": {
@@ -227,7 +230,8 @@
   {
     "id": "2b3c4d5e-6f7g-8h9i-0j1k-234567lmno",
     "title": "Pushpa: The Rise - Part 1",
-    "movie_trailer": "https://www.youtube.com/watch?v=Q1NKMPhP8PY",
+    "movie_trailer": "https://www.youtube.com/embed/Q1NKMPhP8PY?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/2f0d94dde09c07e90aae0673077ed4f1",
     "view_count": "12M",
     "published_at": "Dec 17, 2021",
     "channel": {
@@ -301,7 +305,8 @@
   {
     "id": "3c4d5e6f-7g8h-9i0j-1k2l-345678mnop",
     "title": "Baahubali: The Beginning",
-    "movie_trailer": "https://www.youtube.com/watch?v=sOEg_YZQsTI",
+    "movie_trailer": "https://www.youtube.com/embed/Wup94kacYPM?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/7aad0ea8ee2f357e597f5863aecc1467",
     "view_count": "50M",
     "published_at": "Jul 10, 2015",
     "channel": {
@@ -375,7 +380,8 @@
   {
     "id": "4d5e6f7g-8h9i-0j1k-2l3m-456789nopq",
     "title": "Baahubali: The Conclusion",
-    "movie_trailer": "https://www.youtube.com/watch?v=G62HrubdD6o",
+    "movie_trailer": "https://www.youtube.com/embed/V1Etz52ofXY?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/229d330000a17cdbaedd59d50c1b45d2",
     "view_count": "80M",
     "published_at": "Mar 16, 2017",
     "channel": {
@@ -449,7 +455,8 @@
   {
     "id": "5e6f7g8h-9i0j-1k2l-3m4n-567890pqrstu",
     "title": "Sye Raa Narasimha Reddy",
-    "movie_trailer": "https://www.youtube.com/watch?v=KyhrrdpA2YA",
+    "movie_trailer": "https://www.youtube.com/embed/A4TZgqQ4KoY?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/956a6796450a559409e443ea015d7cf6",
     "view_count": "20M",
     "published_at": "Aug 20, 2019",
     "channel": {
@@ -523,7 +530,8 @@
   {
     "id": "6f7g8h9i-0j1k-2l3m-4n5o-678901pqrstuv",
     "title": "Ala Vaikunthapurramuloo",
-    "movie_trailer": "https://www.youtube.com/watch?v=SkENAjfVoNI",
+    "movie_trailer": "https://www.youtube.com/embed/SkENAjfVoNI?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/bacc7e6774464fe16ac35282dfecae18",
     "view_count": "30M",
     "published_at": "Dec 11, 2019",
     "channel": {
@@ -597,7 +605,8 @@
   {
     "id": "7g8h9i0j-1k2l-3m4n-5o6p-789012qrstuv",
     "title": "Sarkaru Vaari Paata",
-    "movie_trailer": "https://www.youtube.com/watch?v=tVr9v3o7iHY",
+    "movie_trailer": "https://www.youtube.com/embed/xgJnUXqaIT4?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/498c37c32ec852e72ba8629d6cde94ed",
     "view_count": "15M",
     "published_at": "Nov 12, 2021",
     "channel": {
@@ -671,7 +680,8 @@
   {
     "id": "8h9i0j1k-2l3m-4n5o-6p7q-890123rstuvw",
     "title": "Vakeel Saab",
-    "movie_trailer": "https://www.youtube.com/watch?v=P1xKV0Dmetg",
+    "movie_trailer": "https://www.youtube.com/embed/7cL4cnuofR4?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/8be62c1f3c1687933ee3ae1d4136a42c",
     "view_count": "18M",
     "published_at": "Mar 29, 2021",
     "channel": {
@@ -745,7 +755,8 @@
   {
     "id": "9i0j1k2l-3m4n-5o6p-7q8r-901234stuvwx",
     "title": "Radhe Shyam",
-    "movie_trailer": "https://www.youtube.com/watch?v=ZAP6q_Zv-4g",
+    "movie_trailer": "https://www.youtube.com/embed/ZAP6q_Zv-4g?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/47083aa3f6815b220b995a860f9bb2be",
     "view_count": "20M",
     "published_at": "Mar 6, 2021",
     "channel": {
@@ -819,7 +830,8 @@
   {
     "id": "0j1k2l3m-4n5o-6p7q-8r9s-012345tuvwxy",
     "title": "Acharya",
-    "movie_trailer": "https://www.youtube.com/watch?v=m09a8jWgUNk",
+    "movie_trailer": "https://www.youtube.com/embed/BO9anUHXfKs?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/e43a497b05c4bf76a9116d05ce3d3c37",
     "view_count": "12M",
     "published_at": "Apr 29, 2021",
     "channel": {
@@ -893,7 +905,8 @@
   {
   "id": "1k2l3m4n-5o6p-7q8r-9s0t-123456uvwxya",
   "title": "F3: Fun and Frustration",
-  "movie_trailer": "https://youtu.be/3pelriJ6Acs?si=uzQTmGoRdN4CBexB",
+  "movie_trailer": "https://www.youtube.com/embed/Zx3pJE1_B3s?rel=0",
+  "movie_img":"https://asset.cloudinary.com/dl1y5q394/779be35217f99606ea7d1505ff86841d",
   "view_count": "8M",
   "published_at": "May 27, 2022",
   "channel": {
@@ -967,7 +980,8 @@
   {
     "id": "12a34b56-c789-d012-e345-f6789ghijkl",
     "title": "Major",
-    "movie_trailer": "https://www.youtube.com/watch?v=LbTN2dOJcbQ",
+    "movie_trailer": "https://www.youtube.com/embed/LbTN2dOJcbQ?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/661e04312c74c20833c55b0faae405b9",
     "view_count": "8.3M",
     "published_at": "Jul 2, 2021",
     "channel": {
@@ -1041,7 +1055,8 @@
   {
     "id": "13m45n67-o890-p123-q456-r7890stuvxyz",
     "title": "Bangarraju",
-    "movie_trailer": "https://www.youtube.com/watch?v=AF4j7c2z_sM",
+    "movie_trailer": "https://www.youtube.com/embed/nnieluXeW64?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/2e050708ee7f3cc72738eccff82a5db2",
     "view_count": "12.7M",
     "published_at": "Apr 6, 2022",
     "channel": {
@@ -1115,7 +1130,8 @@
   {
     "id": "16j12e34-r56s78-y90t12-u34v56-w78x90-y12z34",
     "title": "Jersey",
-    "movie_trailer": "https://youtu.be/AjAe_Q1WZ_8?si=jqNN1a2dxDx055X_",
+    "movie_trailer": "https://www.youtube.com/embed/kzv4lqpKi6k?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/9f7909045cbf0808c8c5995dabce4464",
     "view_count": "6.9M",
     "published_at": "Apr 19, 2019",
     "channel": {
@@ -1189,7 +1205,8 @@
   {
     "id": "17e34v56-a78b90-c12d34-e56f78-g90h12-i34j56",
     "title": "Evaru",
-    "movie_trailer": "https://youtu.be/TfW6lil5uyc?si=sqE4nnY0bddjHttE",
+    "movie_trailer": "https://www.youtube.com/embed/0_aKSQxQV4c?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/f812c948e1b247921e5d1295ae7e4f39",
     "view_count": "3.5M",
     "published_at": "Aug 15, 2019",
     "channel": {
@@ -1263,7 +1280,8 @@
   {
     "id": "29g12a34-u56t78-a90m12-i34p56-u78t90-r12a34-s56a78-t90a12-k34a56-a78r90-n12i34",
     "title": "Gautamiputra Satakarni",
-    "movie_trailer": "https://youtu.be/98cSoJsdmuk?si=z-D6eopmP0mNrF2s",
+    "movie_trailer": "https://www.youtube.com/embed/3B2VY2BJy1g?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/e89c96a025d9a78ae9c18512f638b66d",
     "view_count": "4.8M",
     "published_at": "Jan 12, 2017",
     "channel": {
@@ -1337,7 +1355,8 @@
   {
     "id": "30l12e34-g56e78-n90d12",
     "title": "Legend",
-    "movie_trailer": "https://youtu.be/Px5nHPQZ-1o?si=2E2WsBraeu0PqJF5",
+    "movie_trailer": "https://www.youtube.com/embed/Px5nHPQZ-1o?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/852ee11d9741e4bb8ada421f11732b35",
     "view_count": "7.2M",
     "published_at": "Mar 28, 2014",
     "channel": {
@@ -1410,8 +1429,9 @@
   },
   {
     "id": "27s12y34-e56t78m-90p12e34-r56",
-    "title": "Sye ra",
-    "movie_trailer": "https://www.youtube.com/watch?v=KyhrrdpA2YA",
+    "title": "Sye",
+    "movie_trailer": "https://www.youtube.com/embed/FAs0k7FjjX8?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/69f0012945b605b0ce334ccf06a3c526",
     "view_count": "2.3M",
     "published_at": "Sep 23, 2023",
     "channel": {
@@ -1485,7 +1505,8 @@
   {
     "id": "28t12e34-m56p78-e90r12",
     "title": "Temper",
-    "movie_trailer": "https://youtu.be/SQgRN5tu1f4?si=ITCSy1DM62DQzA8r",
+    "movie_trailer": "https://www.youtube.com/embed/W3xV22A6HJc?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/ccca70626e119951e91f488a7e95d94e",
     "view_count": "5.1M",
     "published_at": "Feb 13, 2015",
     "channel": {
@@ -1559,7 +1580,8 @@
   {
     "id": "25f12i34-d56a78a-90a12",
     "title": "Fidaa",
-    "movie_trailer": "https://youtu.be/AVtvjfoXNXc?si=ZtP2wtiWwhMG1Cbg",
+    "movie_trailer": "https://www.youtube.com/embed/yiiGeMjCY7c?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/098c57610df598d264940047df59c3d8",
     "view_count": "3.6M",
     "published_at": "Jul 21, 2017",
     "channel": {
@@ -1633,7 +1655,8 @@
   {
     "id": "26s12a34-a56a78h-90o12",
     "title": "Saaho",
-    "movie_trailer": "https://youtu.be/HNnt00swZ5Q?si=5opm29sD4Kv2Sp-Z",
+    "movie_trailer": "https://www.youtube.com/embed/HNnt00swZ5Q?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/2c704a786538c25f0c21226446ca0e2a",
     "view_count": "11.2M",
     "published_at": "Aug 30, 2019",
     "channel": {
@@ -1707,7 +1730,8 @@
   {
     "id": "23s12a34-rr56i78n90o12d",
     "title": "Sarrainodu",
-    "movie_trailer": "https://www.youtube.com/watch?v=SquY-O70Feo",
+    "movie_trailer": "https://www.youtube.com/embed/0b8OvRCrLms?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/c206486d677217dbfe59622537933ce5",
     "view_count": "6.8M",
     "published_at": "Apr 22, 2016",
     "channel": {
@@ -1781,7 +1805,8 @@
   {
     "id": "24b12h34-a56n78e-90n12u",
     "title": "Bharat Ane Nenu",
-    "movie_trailer": "https://www.youtube.com/watch?v=KMWS5y2gZ6E",
+    "movie_trailer": "https://www.youtube.com/embed/QwoFu8U9Yoo?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/4b978bf8510331a1921a502a8f14dbb4",
     "view_count": "9.4M",
     "published_at": "Apr 20, 2018",
     "channel": {
@@ -1855,7 +1880,8 @@
   {
     "id": "21m12a34-h56a78r-90i12",
     "title": "Maharshi",
-    "movie_trailer": "https://youtu.be/ByjXIbg4hjw?si=jwiD1_zYl4zysEoo",
+    "movie_trailer": "https://www.youtube.com/embed/ByjXIbg4hjw?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/fdb71476b43f9e1a5b4aa63ffa6b8469",
     "view_count": "7.9M",
     "published_at": "May 9, 2019",
     "channel": {
@@ -1929,7 +1955,8 @@
   {
     "id": "22r12a34-n56g78a-90l12",
     "title": "Rangasthalam",
-    "movie_trailer": "https://www.youtube.com/watch?v=sueMmTm-M4Y",
+    "movie_trailer": "https://www.youtube.com/embed/sueMmTm-M4Y?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/394c1d8119108785e2291d89ed02f78b",
     "view_count": "8.3M",
     "published_at": "Mar 30, 2018",
     "channel": {
@@ -2003,7 +2030,8 @@
   {
     "id": "18a12r34-j56u78n90r12e",
     "title": "Arjun Reddy",
-    "movie_trailer": "https://www.youtube.com/watch?v=aozErj9NqeE",
+    "movie_trailer": "https://www.youtube.com/embed/aozErj9NqeE?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/ccfd4329a1c1222f4c9958bd5745d5d0",
     "view_count": "10.5M",
     "published_at": "Aug 25, 2017",
     "channel": {
@@ -2077,7 +2105,8 @@
   {
     "id": "19g12e34e-n56d78a90m12",
     "title": "Geetha Govindam",
-    "movie_trailer": "https://youtu.be/qHqWRCxhcOk?si=ODjPw1BvuZQiy32j",
+    "movie_trailer": "https://www.youtube.com/embed/aDXSyMwQbLo?rel=0",
+    "movie_img":"https://asset.cloudinary.com/dl1y5q394/ab2c24e83d2ae599af6437ddb5e73d7b",
     "view_count": "12.2M",
     "published_at": "Aug 15, 2018",
     "channel": {
@@ -2151,7 +2180,8 @@
   {
   "id": "20s12a34r-n56e78e90k12u",
   "title": "Sarileru Neekevvaru",
-  "movie_trailer": "https://www.youtube.com/watch?v=Pim3CUGCXbY",
+  "movie_trailer": "https://www.youtube.com/embed/e4ExVtu7J8w?rel=0",
+  "movie_img":"https://asset.cloudinary.com/dl1y5q394/c18baa22389a11458e8971e965c4c877",
   "view_count": "14.5M",
   "published_at": "Jan 11, 2020",
   "channel": {
