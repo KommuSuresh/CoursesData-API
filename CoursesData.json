@@ -1,0 +1,4238 @@
+
+{
+  "Courses":
+  [
+    {
+        "id": "e7f5d835-2c29-4a4e-bafa-5fb896cfab43",
+        "title": "Mastering Machine Learning with Python | AI & ML Tutorials",
+        "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/ml-tutorials-img.png",
+        "course_video": "mlcourse.com",
+        "channel": {
+            "name": "Tech Savvy",
+            "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/tech-savvy-img.png"
+        },
+        "view_count": "2.1K",
+        "published_at": "Jan 10, 2021",
+        "subscribers": "3.2M subscribers",
+        "comments": [
+          {
+            "profile_image_url": "S",
+            "name_of_viewer": "Samantha Lee",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+          },
+          {
+            "profile_image_url": "D",
+            "name_of_viewer": "David Nguyen",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Emily Smith",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+          },
+          {
+            "profile_image_url": "L",
+            "name_of_viewer": "Luis Rodriguez",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+          },
+          {
+            "profile_image_url": "N",
+            "name_of_viewer": "Nadia Khan",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+          },
+          {
+            "profile_image_url": "R",
+            "name_of_viewer": "Ryan Johnson",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+          },
+          {
+            "profile_image_url": "T",
+            "name_of_viewer": "Tara Williams",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+          },
+          {
+            "profile_image_url": "K",
+            "name_of_viewer": "Kevin Chen",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+          },
+          {
+            "profile_image_url": "G",
+            "name_of_viewer": "Gabriela Martinez",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+          },
+          {
+            "profile_image_url": "F",
+            "name_of_viewer": "Fiona Brown",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+          },
+          {
+            "profile_image_url": "P",
+            "name_of_viewer": "Peter Jackson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+          },
+          {
+            "profile_image_url": "V",
+            "name_of_viewer": "Vikram Patel",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+          },
+          {
+            "profile_image_url": "W",
+            "name_of_viewer": "Wendy Thomas",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+          },
+          {
+            "profile_image_url": "O",
+            "name_of_viewer": "Olivia White",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+          },
+          {
+            "profile_image_url": "H",
+            "name_of_viewer": "Henry Kim",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+          },
+          {
+            "profile_image_url": "J",
+            "name_of_viewer": "Jessica Garcia",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+          },
+          {
+            "profile_image_url": "M",
+            "name_of_viewer": "Mark Thompson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+          },
+          {
+            "profile_image_url": "C",
+            "name_of_viewer": "Catherine Evans",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+          },
+          {
+            "profile_image_url": "A",
+            "name_of_viewer": "Andrew Wilson",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+          },
+          {
+            "profile_image_url": "B",
+            "name_of_viewer": "Bella Martinez",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Ethan Clark",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+          }
+        ]
+    },
+    {
+        "id": "c13d56f1-2ab9-4c3e-97a0-1b9b3e655f3d",
+        "title": "Data Analytics for Beginners | Data Science Series",
+        "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/data-science-img.png",
+        "course_video": "datasciencelab.com",
+        "channel": {
+            "name": "Data Wizards",
+            "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/data-wizards-img.png"
+        },
+        "view_count": "5.6K",
+        "published_at": "Mar 15, 2020",
+        "subscribers": "2.9M subscribers",
+        "comments": [
+          {
+            "profile_image_url": "S",
+            "name_of_viewer": "Samantha Lee",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+          },
+          {
+            "profile_image_url": "D",
+            "name_of_viewer": "David Nguyen",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Emily Smith",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+          },
+          {
+            "profile_image_url": "L",
+            "name_of_viewer": "Luis Rodriguez",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+          },
+          {
+            "profile_image_url": "N",
+            "name_of_viewer": "Nadia Khan",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+          },
+          {
+            "profile_image_url": "R",
+            "name_of_viewer": "Ryan Johnson",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+          },
+          {
+            "profile_image_url": "T",
+            "name_of_viewer": "Tara Williams",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+          },
+          {
+            "profile_image_url": "K",
+            "name_of_viewer": "Kevin Chen",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+          },
+          {
+            "profile_image_url": "G",
+            "name_of_viewer": "Gabriela Martinez",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+          },
+          {
+            "profile_image_url": "F",
+            "name_of_viewer": "Fiona Brown",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+          },
+          {
+            "profile_image_url": "P",
+            "name_of_viewer": "Peter Jackson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+          },
+          {
+            "profile_image_url": "V",
+            "name_of_viewer": "Vikram Patel",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+          },
+          {
+            "profile_image_url": "W",
+            "name_of_viewer": "Wendy Thomas",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+          },
+          {
+            "profile_image_url": "O",
+            "name_of_viewer": "Olivia White",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+          },
+          {
+            "profile_image_url": "H",
+            "name_of_viewer": "Henry Kim",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+          },
+          {
+            "profile_image_url": "J",
+            "name_of_viewer": "Jessica Garcia",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+          },
+          {
+            "profile_image_url": "M",
+            "name_of_viewer": "Mark Thompson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+          },
+          {
+            "profile_image_url": "C",
+            "name_of_viewer": "Catherine Evans",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+          },
+          {
+            "profile_image_url": "A",
+            "name_of_viewer": "Andrew Wilson",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+          },
+          {
+            "profile_image_url": "B",
+            "name_of_viewer": "Bella Martinez",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Ethan Clark",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+          }
+        ]
+    },
+    {
+        "id": "a4b7e658-dcd2-4a6d-9e55-2d35c6b72fb8",
+        "title": "Getting Started with Power BI | Business Intelligence",
+        "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/power-bi-img.png",
+        "course_video": "powerbistart.com",
+        "channel": {
+            "name": "BI Gurus",
+            "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/bi-gurus-img.png"
+        },
+        "view_count": "3.4K",
+        "published_at": "Feb 20, 2022",
+        "subscribers": "1.1M subscribers",
+        "comments": [
+          {
+            "profile_image_url": "S",
+            "name_of_viewer": "Samantha Lee",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+          },
+          {
+            "profile_image_url": "D",
+            "name_of_viewer": "David Nguyen",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Emily Smith",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+          },
+          {
+            "profile_image_url": "L",
+            "name_of_viewer": "Luis Rodriguez",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+          },
+          {
+            "profile_image_url": "N",
+            "name_of_viewer": "Nadia Khan",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+          },
+          {
+            "profile_image_url": "R",
+            "name_of_viewer": "Ryan Johnson",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+          },
+          {
+            "profile_image_url": "T",
+            "name_of_viewer": "Tara Williams",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+          },
+          {
+            "profile_image_url": "K",
+            "name_of_viewer": "Kevin Chen",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+          },
+          {
+            "profile_image_url": "G",
+            "name_of_viewer": "Gabriela Martinez",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+          },
+          {
+            "profile_image_url": "F",
+            "name_of_viewer": "Fiona Brown",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+          },
+          {
+            "profile_image_url": "P",
+            "name_of_viewer": "Peter Jackson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+          },
+          {
+            "profile_image_url": "V",
+            "name_of_viewer": "Vikram Patel",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+          },
+          {
+            "profile_image_url": "W",
+            "name_of_viewer": "Wendy Thomas",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+          },
+          {
+            "profile_image_url": "O",
+            "name_of_viewer": "Olivia White",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+          },
+          {
+            "profile_image_url": "H",
+            "name_of_viewer": "Henry Kim",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+          },
+          {
+            "profile_image_url": "J",
+            "name_of_viewer": "Jessica Garcia",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+          },
+          {
+            "profile_image_url": "M",
+            "name_of_viewer": "Mark Thompson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+          },
+          {
+            "profile_image_url": "C",
+            "name_of_viewer": "Catherine Evans",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+          },
+          {
+            "profile_image_url": "A",
+            "name_of_viewer": "Andrew Wilson",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+          },
+          {
+            "profile_image_url": "B",
+            "name_of_viewer": "Bella Martinez",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Ethan Clark",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+          }
+        ]
+    },
+    {
+        "id": "9b784a6c-ef2b-4cb5-b8a7-3b73bfa68138",
+        "title": "Deep Dive into Neural Networks | AI & ML Insights",
+        "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/neural-networks-img.png",
+        "course_video": "neuralcourse.com",
+        "channel": {
+            "name": "AI Pioneers",
+            "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/ai-pioneers-img.png"
+        },
+        "view_count": "8.9K",
+        "published_at": "Nov 12, 2018",
+        "subscribers": "4.8M subscribers",
+        "comments": [
+          {
+            "profile_image_url": "S",
+            "name_of_viewer": "Samantha Lee",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+          },
+          {
+            "profile_image_url": "D",
+            "name_of_viewer": "David Nguyen",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Emily Smith",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+          },
+          {
+            "profile_image_url": "L",
+            "name_of_viewer": "Luis Rodriguez",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+          },
+          {
+            "profile_image_url": "N",
+            "name_of_viewer": "Nadia Khan",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+          },
+          {
+            "profile_image_url": "R",
+            "name_of_viewer": "Ryan Johnson",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+          },
+          {
+            "profile_image_url": "T",
+            "name_of_viewer": "Tara Williams",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+          },
+          {
+            "profile_image_url": "K",
+            "name_of_viewer": "Kevin Chen",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+          },
+          {
+            "profile_image_url": "G",
+            "name_of_viewer": "Gabriela Martinez",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+          },
+          {
+            "profile_image_url": "F",
+            "name_of_viewer": "Fiona Brown",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+          },
+          {
+            "profile_image_url": "P",
+            "name_of_viewer": "Peter Jackson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+          },
+          {
+            "profile_image_url": "V",
+            "name_of_viewer": "Vikram Patel",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+          },
+          {
+            "profile_image_url": "W",
+            "name_of_viewer": "Wendy Thomas",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+          },
+          {
+            "profile_image_url": "O",
+            "name_of_viewer": "Olivia White",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+          },
+          {
+            "profile_image_url": "H",
+            "name_of_viewer": "Henry Kim",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+          },
+          {
+            "profile_image_url": "J",
+            "name_of_viewer": "Jessica Garcia",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+          },
+          {
+            "profile_image_url": "M",
+            "name_of_viewer": "Mark Thompson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+          },
+          {
+            "profile_image_url": "C",
+            "name_of_viewer": "Catherine Evans",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+          },
+          {
+            "profile_image_url": "A",
+            "name_of_viewer": "Andrew Wilson",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+          },
+          {
+            "profile_image_url": "B",
+            "name_of_viewer": "Bella Martinez",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Ethan Clark",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+          }
+        ]
+    },
+    {
+        "id": "37f98b7e-89e4-42d8-a0d4-fb658ba879b4",
+        "title": "Excel Tips and Tricks | Data Analysis",
+        "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/excel-tips-img.png",
+        "course_video": "exceltips.com",
+        "channel": {
+            "name": "Office Hacks",
+            "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/office-hacks-img.png"
+        },
+        "view_count": "6.2K",
+        "published_at": "Jul 24, 2019",
+        "subscribers": "5.2M subscribers",
+        "comments": [
+          {
+            "profile_image_url": "S",
+            "name_of_viewer": "Samantha Lee",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+          },
+          {
+            "profile_image_url": "D",
+            "name_of_viewer": "David Nguyen",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Emily Smith",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+          },
+          {
+            "profile_image_url": "L",
+            "name_of_viewer": "Luis Rodriguez",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+          },
+          {
+            "profile_image_url": "N",
+            "name_of_viewer": "Nadia Khan",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+          },
+          {
+            "profile_image_url": "R",
+            "name_of_viewer": "Ryan Johnson",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+          },
+          {
+            "profile_image_url": "T",
+            "name_of_viewer": "Tara Williams",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+          },
+          {
+            "profile_image_url": "K",
+            "name_of_viewer": "Kevin Chen",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+          },
+          {
+            "profile_image_url": "G",
+            "name_of_viewer": "Gabriela Martinez",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+          },
+          {
+            "profile_image_url": "F",
+            "name_of_viewer": "Fiona Brown",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+          },
+          {
+            "profile_image_url": "P",
+            "name_of_viewer": "Peter Jackson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+          },
+          {
+            "profile_image_url": "V",
+            "name_of_viewer": "Vikram Patel",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+          },
+          {
+            "profile_image_url": "W",
+            "name_of_viewer": "Wendy Thomas",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+          },
+          {
+            "profile_image_url": "O",
+            "name_of_viewer": "Olivia White",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+          },
+          {
+            "profile_image_url": "H",
+            "name_of_viewer": "Henry Kim",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+          },
+          {
+            "profile_image_url": "J",
+            "name_of_viewer": "Jessica Garcia",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+          },
+          {
+            "profile_image_url": "M",
+            "name_of_viewer": "Mark Thompson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+          },
+          {
+            "profile_image_url": "C",
+            "name_of_viewer": "Catherine Evans",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+          },
+          {
+            "profile_image_url": "A",
+            "name_of_viewer": "Andrew Wilson",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+          },
+          {
+            "profile_image_url": "B",
+            "name_of_viewer": "Bella Martinez",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Ethan Clark",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+          }
+        ]
+    },
+    {
+        "id": "42d3e23f-1cf5-4b1e-9e5b-659c6c2f7c72",
+        "title": "Introduction to Data Structures | Computer Science Basics",
+        "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/data-structures-img.png",
+        "course_video": "dsintro.com",
+        "channel": {
+            "name": "CS Academy",
+            "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/cs-academy-img.png"
+        },
+        "view_count": "4.7K",
+        "published_at": "Sep 30, 2020",
+        "subscribers": "2.3M subscribers",
+        "comments": [
+          {
+            "profile_image_url": "S",
+            "name_of_viewer": "Samantha Lee",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+          },
+          {
+            "profile_image_url": "D",
+            "name_of_viewer": "David Nguyen",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Emily Smith",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+          },
+          {
+            "profile_image_url": "L",
+            "name_of_viewer": "Luis Rodriguez",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+          },
+          {
+            "profile_image_url": "N",
+            "name_of_viewer": "Nadia Khan",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+          },
+          {
+            "profile_image_url": "R",
+            "name_of_viewer": "Ryan Johnson",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+          },
+          {
+            "profile_image_url": "T",
+            "name_of_viewer": "Tara Williams",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+          },
+          {
+            "profile_image_url": "K",
+            "name_of_viewer": "Kevin Chen",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+          },
+          {
+            "profile_image_url": "G",
+            "name_of_viewer": "Gabriela Martinez",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+          },
+          {
+            "profile_image_url": "F",
+            "name_of_viewer": "Fiona Brown",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+          },
+          {
+            "profile_image_url": "P",
+            "name_of_viewer": "Peter Jackson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+          },
+          {
+            "profile_image_url": "V",
+            "name_of_viewer": "Vikram Patel",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+          },
+          {
+            "profile_image_url": "W",
+            "name_of_viewer": "Wendy Thomas",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+          },
+          {
+            "profile_image_url": "O",
+            "name_of_viewer": "Olivia White",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+          },
+          {
+            "profile_image_url": "H",
+            "name_of_viewer": "Henry Kim",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+          },
+          {
+            "profile_image_url": "J",
+            "name_of_viewer": "Jessica Garcia",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+          },
+          {
+            "profile_image_url": "M",
+            "name_of_viewer": "Mark Thompson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+          },
+          {
+            "profile_image_url": "C",
+            "name_of_viewer": "Catherine Evans",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+          },
+          {
+            "profile_image_url": "A",
+            "name_of_viewer": "Andrew Wilson",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+          },
+          {
+            "profile_image_url": "B",
+            "name_of_viewer": "Bella Martinez",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Ethan Clark",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+          }
+        ]
+    },
+    {
+        "id": "89b5e839-8d54-46f1-8416-1a758b8ef0b1",
+        "title": "Advanced SQL Queries | Database Management",
+        "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/sql-queries-img.png",
+        "course_video": "sqladv.com",
+        "channel": {
+            "name": "DB Masters",
+            "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/db-masters-img.png"
+        },
+        "view_count": "1.9K",
+        "published_at": "Dec 11, 2021",
+        "subscribers": "3.5M subscribers",
+        "comments": [
+          {
+            "profile_image_url": "S",
+            "name_of_viewer": "Samantha Lee",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+          },
+          {
+            "profile_image_url": "D",
+            "name_of_viewer": "David Nguyen",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Emily Smith",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+          },
+          {
+            "profile_image_url": "L",
+            "name_of_viewer": "Luis Rodriguez",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+          },
+          {
+            "profile_image_url": "N",
+            "name_of_viewer": "Nadia Khan",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+          },
+          {
+            "profile_image_url": "R",
+            "name_of_viewer": "Ryan Johnson",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+          },
+          {
+            "profile_image_url": "T",
+            "name_of_viewer": "Tara Williams",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+          },
+          {
+            "profile_image_url": "K",
+            "name_of_viewer": "Kevin Chen",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+          },
+          {
+            "profile_image_url": "G",
+            "name_of_viewer": "Gabriela Martinez",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+          },
+          {
+            "profile_image_url": "F",
+            "name_of_viewer": "Fiona Brown",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+          },
+          {
+            "profile_image_url": "P",
+            "name_of_viewer": "Peter Jackson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+          },
+          {
+            "profile_image_url": "V",
+            "name_of_viewer": "Vikram Patel",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+          },
+          {
+            "profile_image_url": "W",
+            "name_of_viewer": "Wendy Thomas",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+          },
+          {
+            "profile_image_url": "O",
+            "name_of_viewer": "Olivia White",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+          },
+          {
+            "profile_image_url": "H",
+            "name_of_viewer": "Henry Kim",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+          },
+          {
+            "profile_image_url": "J",
+            "name_of_viewer": "Jessica Garcia",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+          },
+          {
+            "profile_image_url": "M",
+            "name_of_viewer": "Mark Thompson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+          },
+          {
+            "profile_image_url": "C",
+            "name_of_viewer": "Catherine Evans",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+          },
+          {
+            "profile_image_url": "A",
+            "name_of_viewer": "Andrew Wilson",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+          },
+          {
+            "profile_image_url": "B",
+            "name_of_viewer": "Bella Martinez",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Ethan Clark",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+          }
+        ]
+    },
+    {
+        "id": "d68a6e4c-0d19-4855-8d90-93a7b3f6a431",
+        "title": "JavaScript Essentials | Web Development",
+        "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/javascript-img.png",
+        "course_video": "jscourse.com",
+        "channel": {
+            "name": "Web Dev Pros",
+            "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/web-dev-pros-img.png"
+        },
+        "view_count": "7.3K",
+        "published_at": "Oct 5, 2019",
+        "subscribers": "4.1M subscribers",
+        "comments": [
+          {
+            "profile_image_url": "S",
+            "name_of_viewer": "Samantha Lee",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+          },
+          {
+            "profile_image_url": "D",
+            "name_of_viewer": "David Nguyen",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Emily Smith",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+          },
+          {
+            "profile_image_url": "L",
+            "name_of_viewer": "Luis Rodriguez",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+          },
+          {
+            "profile_image_url": "N",
+            "name_of_viewer": "Nadia Khan",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+          },
+          {
+            "profile_image_url": "R",
+            "name_of_viewer": "Ryan Johnson",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+          },
+          {
+            "profile_image_url": "T",
+            "name_of_viewer": "Tara Williams",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+          },
+          {
+            "profile_image_url": "K",
+            "name_of_viewer": "Kevin Chen",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+          },
+          {
+            "profile_image_url": "G",
+            "name_of_viewer": "Gabriela Martinez",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+          },
+          {
+            "profile_image_url": "F",
+            "name_of_viewer": "Fiona Brown",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+          },
+          {
+            "profile_image_url": "P",
+            "name_of_viewer": "Peter Jackson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+          },
+          {
+            "profile_image_url": "V",
+            "name_of_viewer": "Vikram Patel",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+          },
+          {
+            "profile_image_url": "W",
+            "name_of_viewer": "Wendy Thomas",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+          },
+          {
+            "profile_image_url": "O",
+            "name_of_viewer": "Olivia White",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+          },
+          {
+            "profile_image_url": "H",
+            "name_of_viewer": "Henry Kim",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+          },
+          {
+            "profile_image_url": "J",
+            "name_of_viewer": "Jessica Garcia",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+          },
+          {
+            "profile_image_url": "M",
+            "name_of_viewer": "Mark Thompson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+          },
+          {
+            "profile_image_url": "C",
+            "name_of_viewer": "Catherine Evans",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+          },
+          {
+            "profile_image_url": "A",
+            "name_of_viewer": "Andrew Wilson",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+          },
+          {
+            "profile_image_url": "B",
+            "name_of_viewer": "Bella Martinez",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Ethan Clark",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+          }
+        ]
+    },
+    {
+        "id": "bfc9b5e0-003d-4a3b-8d7f-3e4b8d5f9d38",
+        "title": "Kubernetes for Beginners | DevOps Tools",
+        "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/kubernetes-img.png",
+        "course_video": "kubernetesbeg.com",
+        "channel": {
+            "name": "DevOps Masters",
+            "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/devops-masters-img.png"
+        },
+        "view_count": "2.8K",
+        "published_at": "Aug 19, 2021",
+        "subscribers": "2.7M subscribers",
+        "comments": [
+          {
+            "profile_image_url": "S",
+            "name_of_viewer": "Samantha Lee",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+          },
+          {
+            "profile_image_url": "D",
+            "name_of_viewer": "David Nguyen",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Emily Smith",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+          },
+          {
+            "profile_image_url": "L",
+            "name_of_viewer": "Luis Rodriguez",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+          },
+          {
+            "profile_image_url": "N",
+            "name_of_viewer": "Nadia Khan",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+          },
+          {
+            "profile_image_url": "R",
+            "name_of_viewer": "Ryan Johnson",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+          },
+          {
+            "profile_image_url": "T",
+            "name_of_viewer": "Tara Williams",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+          },
+          {
+            "profile_image_url": "K",
+            "name_of_viewer": "Kevin Chen",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+          },
+          {
+            "profile_image_url": "G",
+            "name_of_viewer": "Gabriela Martinez",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+          },
+          {
+            "profile_image_url": "F",
+            "name_of_viewer": "Fiona Brown",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+          },
+          {
+            "profile_image_url": "P",
+            "name_of_viewer": "Peter Jackson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+          },
+          {
+            "profile_image_url": "V",
+            "name_of_viewer": "Vikram Patel",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+          },
+          {
+            "profile_image_url": "W",
+            "name_of_viewer": "Wendy Thomas",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+          },
+          {
+            "profile_image_url": "O",
+            "name_of_viewer": "Olivia White",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+          },
+          {
+            "profile_image_url": "H",
+            "name_of_viewer": "Henry Kim",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+          },
+          {
+            "profile_image_url": "J",
+            "name_of_viewer": "Jessica Garcia",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+          },
+          {
+            "profile_image_url": "M",
+            "name_of_viewer": "Mark Thompson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+          },
+          {
+            "profile_image_url": "C",
+            "name_of_viewer": "Catherine Evans",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+          },
+          {
+            "profile_image_url": "A",
+            "name_of_viewer": "Andrew Wilson",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+          },
+          {
+            "profile_image_url": "B",
+            "name_of_viewer": "Bella Martinez",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Ethan Clark",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+          }
+        ]
+    },
+    {
+        "id": "db5d362a-f07c-4b99-8b37-7d3f4e2a0f8c",
+        "title": "Python for Data Science | Full Course",
+        "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/python-data-science-img.png",
+        "course_video": "pythoncourse.com",
+        "channel": {
+            "name": "Data Ninjas",
+            "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/data-ninjas-img.png"
+        },
+        "view_count": "9.1K",
+        "published_at": "May 25, 2020",
+        "subscribers": "3.8M subscribers",
+        "comments": [
+          {
+            "profile_image_url": "S",
+            "name_of_viewer": "Samantha Lee",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+          },
+          {
+            "profile_image_url": "D",
+            "name_of_viewer": "David Nguyen",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Emily Smith",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+          },
+          {
+            "profile_image_url": "L",
+            "name_of_viewer": "Luis Rodriguez",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+          },
+          {
+            "profile_image_url": "N",
+            "name_of_viewer": "Nadia Khan",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+          },
+          {
+            "profile_image_url": "R",
+            "name_of_viewer": "Ryan Johnson",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+          },
+          {
+            "profile_image_url": "T",
+            "name_of_viewer": "Tara Williams",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+          },
+          {
+            "profile_image_url": "K",
+            "name_of_viewer": "Kevin Chen",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+          },
+          {
+            "profile_image_url": "G",
+            "name_of_viewer": "Gabriela Martinez",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+          },
+          {
+            "profile_image_url": "F",
+            "name_of_viewer": "Fiona Brown",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+          },
+          {
+            "profile_image_url": "P",
+            "name_of_viewer": "Peter Jackson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+          },
+          {
+            "profile_image_url": "V",
+            "name_of_viewer": "Vikram Patel",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+          },
+          {
+            "profile_image_url": "W",
+            "name_of_viewer": "Wendy Thomas",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+          },
+          {
+            "profile_image_url": "O",
+            "name_of_viewer": "Olivia White",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+          },
+          {
+            "profile_image_url": "H",
+            "name_of_viewer": "Henry Kim",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+          },
+          {
+            "profile_image_url": "J",
+            "name_of_viewer": "Jessica Garcia",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+          },
+          {
+            "profile_image_url": "M",
+            "name_of_viewer": "Mark Thompson",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+          },
+          {
+            "profile_image_url": "C",
+            "name_of_viewer": "Catherine Evans",
+            "how_much_days_ago": "1 day ago",
+            "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+          },
+          {
+            "profile_image_url": "A",
+            "name_of_viewer": "Andrew Wilson",
+            "how_much_days_ago": "2 days ago",
+            "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+          },
+          {
+            "profile_image_url": "B",
+            "name_of_viewer": "Bella Martinez",
+            "how_much_days_ago": "4 days ago",
+            "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+          },
+          {
+            "profile_image_url": "E",
+            "name_of_viewer": "Ethan Clark",
+            "how_much_days_ago": "3 days ago",
+            "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+          }
+        ]
+    },
+    {
+      "id": "cce5d42a-3b42-4a6e-92c3-e5f6b6c8b631",
+      "title": "Intro to Blockchain Technology | Cryptography Basics",
+      "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/blockchain-basics-img.png",
+      "course_video": "blockchainintro.com",
+      "channel": {
+          "name": "Crypto Insights",
+          "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/crypto-insights-img.png"
+      },
+      "view_count": "2.3K",
+      "published_at": "Jan 14, 2018",
+      "subscribers": "1.8M subscribers",
+      "comments": [
+        {
+          "profile_image_url": "S",
+          "name_of_viewer": "Samantha Lee",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+        },
+        {
+          "profile_image_url": "D",
+          "name_of_viewer": "David Nguyen",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Emily Smith",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+        },
+        {
+          "profile_image_url": "L",
+          "name_of_viewer": "Luis Rodriguez",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+        },
+        {
+          "profile_image_url": "N",
+          "name_of_viewer": "Nadia Khan",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+        },
+        {
+          "profile_image_url": "R",
+          "name_of_viewer": "Ryan Johnson",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+        },
+        {
+          "profile_image_url": "T",
+          "name_of_viewer": "Tara Williams",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+        },
+        {
+          "profile_image_url": "K",
+          "name_of_viewer": "Kevin Chen",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+        },
+        {
+          "profile_image_url": "G",
+          "name_of_viewer": "Gabriela Martinez",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+        },
+        {
+          "profile_image_url": "F",
+          "name_of_viewer": "Fiona Brown",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+        },
+        {
+          "profile_image_url": "P",
+          "name_of_viewer": "Peter Jackson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+        },
+        {
+          "profile_image_url": "V",
+          "name_of_viewer": "Vikram Patel",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+        },
+        {
+          "profile_image_url": "W",
+          "name_of_viewer": "Wendy Thomas",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+        },
+        {
+          "profile_image_url": "O",
+          "name_of_viewer": "Olivia White",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+        },
+        {
+          "profile_image_url": "H",
+          "name_of_viewer": "Henry Kim",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+        },
+        {
+          "profile_image_url": "J",
+          "name_of_viewer": "Jessica Garcia",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+        },
+        {
+          "profile_image_url": "M",
+          "name_of_viewer": "Mark Thompson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+        },
+        {
+          "profile_image_url": "C",
+          "name_of_viewer": "Catherine Evans",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+        },
+        {
+          "profile_image_url": "A",
+          "name_of_viewer": "Andrew Wilson",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+        },
+        {
+          "profile_image_url": "B",
+          "name_of_viewer": "Bella Martinez",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Ethan Clark",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+        }
+      ]
+  },
+  {
+      "id": "f8c8eace-9028-409a-9286-75e27831f6e6",
+      "title": "Cloud Computing Fundamentals | AWS and Azure",
+      "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/cloud-computing-img.png",
+      "course_video": "cloudcourse.com",
+      "channel": {
+          "name": "Cloud Experts",
+          "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/cloud-experts-img.png"
+      },
+      "view_count": "6.8K",
+      "published_at": "Apr 27, 2019",
+      "subscribers": "3.7M subscribers",
+      "comments": [
+        {
+          "profile_image_url": "S",
+          "name_of_viewer": "Samantha Lee",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+        },
+        {
+          "profile_image_url": "D",
+          "name_of_viewer": "David Nguyen",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Emily Smith",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+        },
+        {
+          "profile_image_url": "L",
+          "name_of_viewer": "Luis Rodriguez",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+        },
+        {
+          "profile_image_url": "N",
+          "name_of_viewer": "Nadia Khan",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+        },
+        {
+          "profile_image_url": "R",
+          "name_of_viewer": "Ryan Johnson",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+        },
+        {
+          "profile_image_url": "T",
+          "name_of_viewer": "Tara Williams",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+        },
+        {
+          "profile_image_url": "K",
+          "name_of_viewer": "Kevin Chen",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+        },
+        {
+          "profile_image_url": "G",
+          "name_of_viewer": "Gabriela Martinez",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+        },
+        {
+          "profile_image_url": "F",
+          "name_of_viewer": "Fiona Brown",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+        },
+        {
+          "profile_image_url": "P",
+          "name_of_viewer": "Peter Jackson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+        },
+        {
+          "profile_image_url": "V",
+          "name_of_viewer": "Vikram Patel",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+        },
+        {
+          "profile_image_url": "W",
+          "name_of_viewer": "Wendy Thomas",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+        },
+        {
+          "profile_image_url": "O",
+          "name_of_viewer": "Olivia White",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+        },
+        {
+          "profile_image_url": "H",
+          "name_of_viewer": "Henry Kim",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+        },
+        {
+          "profile_image_url": "J",
+          "name_of_viewer": "Jessica Garcia",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+        },
+        {
+          "profile_image_url": "M",
+          "name_of_viewer": "Mark Thompson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+        },
+        {
+          "profile_image_url": "C",
+          "name_of_viewer": "Catherine Evans",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+        },
+        {
+          "profile_image_url": "A",
+          "name_of_viewer": "Andrew Wilson",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+        },
+        {
+          "profile_image_url": "B",
+          "name_of_viewer": "Bella Martinez",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Ethan Clark",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+        }
+      ]
+  },
+  {
+      "id": "7b7c2ab3-b95d-49c1-9d36-e923c7634b58",
+      "title": "Introduction to Cybersecurity | Protect Your Data",
+      "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/cybersecurity-img.png",
+      "course_video": "cybercourse.com",
+      "channel": {
+          "name": "Security Gurus",
+          "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/security-gurus-img.png"
+      },
+      "view_count": "5.2K",
+      "published_at": "Mar 9, 2021",
+      "subscribers": "4.2M subscribers",
+      "comments": [
+        {
+          "profile_image_url": "S",
+          "name_of_viewer": "Samantha Lee",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+        },
+        {
+          "profile_image_url": "D",
+          "name_of_viewer": "David Nguyen",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Emily Smith",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+        },
+        {
+          "profile_image_url": "L",
+          "name_of_viewer": "Luis Rodriguez",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+        },
+        {
+          "profile_image_url": "N",
+          "name_of_viewer": "Nadia Khan",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+        },
+        {
+          "profile_image_url": "R",
+          "name_of_viewer": "Ryan Johnson",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+        },
+        {
+          "profile_image_url": "T",
+          "name_of_viewer": "Tara Williams",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+        },
+        {
+          "profile_image_url": "K",
+          "name_of_viewer": "Kevin Chen",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+        },
+        {
+          "profile_image_url": "G",
+          "name_of_viewer": "Gabriela Martinez",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+        },
+        {
+          "profile_image_url": "F",
+          "name_of_viewer": "Fiona Brown",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+        },
+        {
+          "profile_image_url": "P",
+          "name_of_viewer": "Peter Jackson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+        },
+        {
+          "profile_image_url": "V",
+          "name_of_viewer": "Vikram Patel",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+        },
+        {
+          "profile_image_url": "W",
+          "name_of_viewer": "Wendy Thomas",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+        },
+        {
+          "profile_image_url": "O",
+          "name_of_viewer": "Olivia White",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+        },
+        {
+          "profile_image_url": "H",
+          "name_of_viewer": "Henry Kim",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+        },
+        {
+          "profile_image_url": "J",
+          "name_of_viewer": "Jessica Garcia",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+        },
+        {
+          "profile_image_url": "M",
+          "name_of_viewer": "Mark Thompson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+        },
+        {
+          "profile_image_url": "C",
+          "name_of_viewer": "Catherine Evans",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+        },
+        {
+          "profile_image_url": "A",
+          "name_of_viewer": "Andrew Wilson",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+        },
+        {
+          "profile_image_url": "B",
+          "name_of_viewer": "Bella Martinez",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Ethan Clark",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+        }
+      ]
+  },
+  {
+      "id": "5c6d4a6d-8b22-4a39-91ea-6ef4a2d6f7eb",
+      "title": "Artificial Intelligence for Everyone | AI Basics",
+      "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/ai-basics-img.png",
+      "course_video": "aicourse.com",
+      "channel": {
+          "name": "AI Revolution",
+          "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/ai-revolution-img.png"
+      },
+      "view_count": "7.7K",
+      "published_at": "Nov 22, 2020",
+      "subscribers": "5.6M subscribers",
+      "comments": [
+        {
+          "profile_image_url": "S",
+          "name_of_viewer": "Samantha Lee",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+        },
+        {
+          "profile_image_url": "D",
+          "name_of_viewer": "David Nguyen",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Emily Smith",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+        },
+        {
+          "profile_image_url": "L",
+          "name_of_viewer": "Luis Rodriguez",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+        },
+        {
+          "profile_image_url": "N",
+          "name_of_viewer": "Nadia Khan",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+        },
+        {
+          "profile_image_url": "R",
+          "name_of_viewer": "Ryan Johnson",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+        },
+        {
+          "profile_image_url": "T",
+          "name_of_viewer": "Tara Williams",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+        },
+        {
+          "profile_image_url": "K",
+          "name_of_viewer": "Kevin Chen",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+        },
+        {
+          "profile_image_url": "G",
+          "name_of_viewer": "Gabriela Martinez",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+        },
+        {
+          "profile_image_url": "F",
+          "name_of_viewer": "Fiona Brown",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+        },
+        {
+          "profile_image_url": "P",
+          "name_of_viewer": "Peter Jackson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+        },
+        {
+          "profile_image_url": "V",
+          "name_of_viewer": "Vikram Patel",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+        },
+        {
+          "profile_image_url": "W",
+          "name_of_viewer": "Wendy Thomas",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+        },
+        {
+          "profile_image_url": "O",
+          "name_of_viewer": "Olivia White",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+        },
+        {
+          "profile_image_url": "H",
+          "name_of_viewer": "Henry Kim",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+        },
+        {
+          "profile_image_url": "J",
+          "name_of_viewer": "Jessica Garcia",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+        },
+        {
+          "profile_image_url": "M",
+          "name_of_viewer": "Mark Thompson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+        },
+        {
+          "profile_image_url": "C",
+          "name_of_viewer": "Catherine Evans",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+        },
+        {
+          "profile_image_url": "A",
+          "name_of_viewer": "Andrew Wilson",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+        },
+        {
+          "profile_image_url": "B",
+          "name_of_viewer": "Bella Martinez",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Ethan Clark",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+        }
+      ]
+  },
+  {
+      "id": "2e4a685f-8b5b-4ff1-9055-791be67d2c9a",
+      "title": "Learn HTML & CSS | Web Design Basics",
+      "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/html-css-img.png",
+      "course_video": "webdesigncourse.com",
+      "channel": {
+          "name": "Frontend Masters",
+          "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/frontend-masters-img.png"
+      },
+      "view_count": "3.1K",
+      "published_at": "Jun 17, 2019",
+      "subscribers": "1.9M subscribers",
+      "comments": [
+        {
+          "profile_image_url": "S",
+          "name_of_viewer": "Samantha Lee",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+        },
+        {
+          "profile_image_url": "D",
+          "name_of_viewer": "David Nguyen",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Emily Smith",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+        },
+        {
+          "profile_image_url": "L",
+          "name_of_viewer": "Luis Rodriguez",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+        },
+        {
+          "profile_image_url": "N",
+          "name_of_viewer": "Nadia Khan",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+        },
+        {
+          "profile_image_url": "R",
+          "name_of_viewer": "Ryan Johnson",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+        },
+        {
+          "profile_image_url": "T",
+          "name_of_viewer": "Tara Williams",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+        },
+        {
+          "profile_image_url": "K",
+          "name_of_viewer": "Kevin Chen",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+        },
+        {
+          "profile_image_url": "G",
+          "name_of_viewer": "Gabriela Martinez",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+        },
+        {
+          "profile_image_url": "F",
+          "name_of_viewer": "Fiona Brown",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+        },
+        {
+          "profile_image_url": "P",
+          "name_of_viewer": "Peter Jackson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+        },
+        {
+          "profile_image_url": "V",
+          "name_of_viewer": "Vikram Patel",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+        },
+        {
+          "profile_image_url": "W",
+          "name_of_viewer": "Wendy Thomas",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+        },
+        {
+          "profile_image_url": "O",
+          "name_of_viewer": "Olivia White",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+        },
+        {
+          "profile_image_url": "H",
+          "name_of_viewer": "Henry Kim",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+        },
+        {
+          "profile_image_url": "J",
+          "name_of_viewer": "Jessica Garcia",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+        },
+        {
+          "profile_image_url": "M",
+          "name_of_viewer": "Mark Thompson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+        },
+        {
+          "profile_image_url": "C",
+          "name_of_viewer": "Catherine Evans",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+        },
+        {
+          "profile_image_url": "A",
+          "name_of_viewer": "Andrew Wilson",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+        },
+        {
+          "profile_image_url": "B",
+          "name_of_viewer": "Bella Martinez",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Ethan Clark",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+        }
+      ]
+  },
+  {
+      "id": "74b5e765-3b44-456b-bc5f-37982b27f276",
+      "title": "Big Data Essentials | Hadoop and Spark",
+      "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/big-data-img.png",
+      "course_video": "bigdatacourse.com",
+      "channel": {
+          "name": "Data Engineers",
+          "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/data-engineers-img.png"
+      },
+      "view_count": "4.9K",
+      "published_at": "Sep 30, 2021",
+      "subscribers": "2.4M subscribers",
+      "comments": [
+        {
+          "profile_image_url": "S",
+          "name_of_viewer": "Samantha Lee",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+        },
+        {
+          "profile_image_url": "D",
+          "name_of_viewer": "David Nguyen",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Emily Smith",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+        },
+        {
+          "profile_image_url": "L",
+          "name_of_viewer": "Luis Rodriguez",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+        },
+        {
+          "profile_image_url": "N",
+          "name_of_viewer": "Nadia Khan",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+        },
+        {
+          "profile_image_url": "R",
+          "name_of_viewer": "Ryan Johnson",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+        },
+        {
+          "profile_image_url": "T",
+          "name_of_viewer": "Tara Williams",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+        },
+        {
+          "profile_image_url": "K",
+          "name_of_viewer": "Kevin Chen",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+        },
+        {
+          "profile_image_url": "G",
+          "name_of_viewer": "Gabriela Martinez",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+        },
+        {
+          "profile_image_url": "F",
+          "name_of_viewer": "Fiona Brown",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+        },
+        {
+          "profile_image_url": "P",
+          "name_of_viewer": "Peter Jackson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+        },
+        {
+          "profile_image_url": "V",
+          "name_of_viewer": "Vikram Patel",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+        },
+        {
+          "profile_image_url": "W",
+          "name_of_viewer": "Wendy Thomas",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+        },
+        {
+          "profile_image_url": "O",
+          "name_of_viewer": "Olivia White",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+        },
+        {
+          "profile_image_url": "H",
+          "name_of_viewer": "Henry Kim",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+        },
+        {
+          "profile_image_url": "J",
+          "name_of_viewer": "Jessica Garcia",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+        },
+        {
+          "profile_image_url": "M",
+          "name_of_viewer": "Mark Thompson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+        },
+        {
+          "profile_image_url": "C",
+          "name_of_viewer": "Catherine Evans",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+        },
+        {
+          "profile_image_url": "A",
+          "name_of_viewer": "Andrew Wilson",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+        },
+        {
+          "profile_image_url": "B",
+          "name_of_viewer": "Bella Martinez",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Ethan Clark",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+        }
+      ]
+  },
+  {
+      "id": "b8c7e938-dbd7-44fa-b39f-4c9a82b8a6cb",
+      "title": "ReactJS for Beginners | Frontend Development",
+      "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/reactjs-img.png",
+      "course_video": "reactcourse.com",
+      "channel": {
+          "name": "Code Masters",
+          "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/code-masters-img.png"
+      },
+      "view_count": "9.4K",
+      "published_at": "Feb 10, 2022",
+      "subscribers": "3.9M subscribers",
+      "comments": [
+        {
+          "profile_image_url": "S",
+          "name_of_viewer": "Samantha Lee",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+        },
+        {
+          "profile_image_url": "D",
+          "name_of_viewer": "David Nguyen",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Emily Smith",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+        },
+        {
+          "profile_image_url": "L",
+          "name_of_viewer": "Luis Rodriguez",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+        },
+        {
+          "profile_image_url": "N",
+          "name_of_viewer": "Nadia Khan",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+        },
+        {
+          "profile_image_url": "R",
+          "name_of_viewer": "Ryan Johnson",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+        },
+        {
+          "profile_image_url": "T",
+          "name_of_viewer": "Tara Williams",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+        },
+        {
+          "profile_image_url": "K",
+          "name_of_viewer": "Kevin Chen",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+        },
+        {
+          "profile_image_url": "G",
+          "name_of_viewer": "Gabriela Martinez",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+        },
+        {
+          "profile_image_url": "F",
+          "name_of_viewer": "Fiona Brown",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+        },
+        {
+          "profile_image_url": "P",
+          "name_of_viewer": "Peter Jackson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+        },
+        {
+          "profile_image_url": "V",
+          "name_of_viewer": "Vikram Patel",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+        },
+        {
+          "profile_image_url": "W",
+          "name_of_viewer": "Wendy Thomas",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+        },
+        {
+          "profile_image_url": "O",
+          "name_of_viewer": "Olivia White",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+        },
+        {
+          "profile_image_url": "H",
+          "name_of_viewer": "Henry Kim",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+        },
+        {
+          "profile_image_url": "J",
+          "name_of_viewer": "Jessica Garcia",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+        },
+        {
+          "profile_image_url": "M",
+          "name_of_viewer": "Mark Thompson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+        },
+        {
+          "profile_image_url": "C",
+          "name_of_viewer": "Catherine Evans",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+        },
+        {
+          "profile_image_url": "A",
+          "name_of_viewer": "Andrew Wilson",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+        },
+        {
+          "profile_image_url": "B",
+          "name_of_viewer": "Bella Martinez",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Ethan Clark",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+        }
+      ]
+  },
+  {
+      "id": "69d7b6d6-7c2d-4d2b-856c-1b7b7d5d8d1c",
+      "title": "Understanding APIs | Integration Basics",
+      "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/apis-img.png",
+      "course_video": "apicourse.com",
+      "channel": {
+          "name": "Integration Experts",
+          "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/integration-experts-img.png"
+      },
+      "view_count": "3.7K",
+      "published_at": "Jul 18, 2020",
+      "subscribers": "2.2M subscribers",
+      "comments": [
+        {
+          "profile_image_url": "S",
+          "name_of_viewer": "Samantha Lee",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+        },
+        {
+          "profile_image_url": "D",
+          "name_of_viewer": "David Nguyen",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Emily Smith",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+        },
+        {
+          "profile_image_url": "L",
+          "name_of_viewer": "Luis Rodriguez",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+        },
+        {
+          "profile_image_url": "N",
+          "name_of_viewer": "Nadia Khan",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+        },
+        {
+          "profile_image_url": "R",
+          "name_of_viewer": "Ryan Johnson",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+        },
+        {
+          "profile_image_url": "T",
+          "name_of_viewer": "Tara Williams",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+        },
+        {
+          "profile_image_url": "K",
+          "name_of_viewer": "Kevin Chen",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+        },
+        {
+          "profile_image_url": "G",
+          "name_of_viewer": "Gabriela Martinez",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+        },
+        {
+          "profile_image_url": "F",
+          "name_of_viewer": "Fiona Brown",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+        },
+        {
+          "profile_image_url": "P",
+          "name_of_viewer": "Peter Jackson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+        },
+        {
+          "profile_image_url": "V",
+          "name_of_viewer": "Vikram Patel",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+        },
+        {
+          "profile_image_url": "W",
+          "name_of_viewer": "Wendy Thomas",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+        },
+        {
+          "profile_image_url": "O",
+          "name_of_viewer": "Olivia White",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+        },
+        {
+          "profile_image_url": "H",
+          "name_of_viewer": "Henry Kim",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+        },
+        {
+          "profile_image_url": "J",
+          "name_of_viewer": "Jessica Garcia",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+        },
+        {
+          "profile_image_url": "M",
+          "name_of_viewer": "Mark Thompson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+        },
+        {
+          "profile_image_url": "C",
+          "name_of_viewer": "Catherine Evans",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+        },
+        {
+          "profile_image_url": "A",
+          "name_of_viewer": "Andrew Wilson",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+        },
+        {
+          "profile_image_url": "B",
+          "name_of_viewer": "Bella Martinez",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Ethan Clark",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+        }
+      ]
+  },
+  {
+      "id": "3e9b3f6c-3d2d-4923-bb5b-3a59c3d6a3e1",
+      "title": "Mobile App Development | Android & iOS",
+      "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/mobile-app-dev-img.png",
+      "course_video": "mobiledevcourse.com",
+      "channel": {
+          "name": "App Builders",
+          "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/app-builders-img.png"
+      },
+      "view_count": "6.5K",
+      "published_at": "Oct 7, 2021",
+      "subscribers": "3.1M subscribers",
+      "comments": [
+        {
+          "profile_image_url": "S",
+          "name_of_viewer": "Samantha Lee",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+        },
+        {
+          "profile_image_url": "D",
+          "name_of_viewer": "David Nguyen",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Emily Smith",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+        },
+        {
+          "profile_image_url": "L",
+          "name_of_viewer": "Luis Rodriguez",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+        },
+        {
+          "profile_image_url": "N",
+          "name_of_viewer": "Nadia Khan",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+        },
+        {
+          "profile_image_url": "R",
+          "name_of_viewer": "Ryan Johnson",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+        },
+        {
+          "profile_image_url": "T",
+          "name_of_viewer": "Tara Williams",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+        },
+        {
+          "profile_image_url": "K",
+          "name_of_viewer": "Kevin Chen",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+        },
+        {
+          "profile_image_url": "G",
+          "name_of_viewer": "Gabriela Martinez",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+        },
+        {
+          "profile_image_url": "F",
+          "name_of_viewer": "Fiona Brown",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+        },
+        {
+          "profile_image_url": "P",
+          "name_of_viewer": "Peter Jackson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+        },
+        {
+          "profile_image_url": "V",
+          "name_of_viewer": "Vikram Patel",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+        },
+        {
+          "profile_image_url": "W",
+          "name_of_viewer": "Wendy Thomas",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+        },
+        {
+          "profile_image_url": "O",
+          "name_of_viewer": "Olivia White",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+        },
+        {
+          "profile_image_url": "H",
+          "name_of_viewer": "Henry Kim",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+        },
+        {
+          "profile_image_url": "J",
+          "name_of_viewer": "Jessica Garcia",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+        },
+        {
+          "profile_image_url": "M",
+          "name_of_viewer": "Mark Thompson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+        },
+        {
+          "profile_image_url": "C",
+          "name_of_viewer": "Catherine Evans",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+        },
+        {
+          "profile_image_url": "A",
+          "name_of_viewer": "Andrew Wilson",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+        },
+        {
+          "profile_image_url": "B",
+          "name_of_viewer": "Bella Martinez",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Ethan Clark",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+        }
+      ]
+  },
+  {
+      "id": "c1a7d4e8-90da-4e4e-8b3c-6e6a2d8b1f5d",
+      "title": "DevOps Practices | CI/CD with Jenkins",
+      "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/devops-practices-img.png",
+      "course_video": "devopscourse.com",
+      "channel": {
+          "name": "DevOps Hub",
+          "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/devops-hub-img.png"
+      },
+      "view_count": "8.1K",
+      "published_at": "Dec 11, 2019",
+      "subscribers": "4.4M subscribers",
+      "comments": [
+        {
+          "profile_image_url": "S",
+          "name_of_viewer": "Samantha Lee",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+        },
+        {
+          "profile_image_url": "D",
+          "name_of_viewer": "David Nguyen",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Emily Smith",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+        },
+        {
+          "profile_image_url": "L",
+          "name_of_viewer": "Luis Rodriguez",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+        },
+        {
+          "profile_image_url": "N",
+          "name_of_viewer": "Nadia Khan",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+        },
+        {
+          "profile_image_url": "R",
+          "name_of_viewer": "Ryan Johnson",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+        },
+        {
+          "profile_image_url": "T",
+          "name_of_viewer": "Tara Williams",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+        },
+        {
+          "profile_image_url": "K",
+          "name_of_viewer": "Kevin Chen",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+        },
+        {
+          "profile_image_url": "G",
+          "name_of_viewer": "Gabriela Martinez",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+        },
+        {
+          "profile_image_url": "F",
+          "name_of_viewer": "Fiona Brown",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+        },
+        {
+          "profile_image_url": "P",
+          "name_of_viewer": "Peter Jackson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+        },
+        {
+          "profile_image_url": "V",
+          "name_of_viewer": "Vikram Patel",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+        },
+        {
+          "profile_image_url": "W",
+          "name_of_viewer": "Wendy Thomas",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+        },
+        {
+          "profile_image_url": "O",
+          "name_of_viewer": "Olivia White",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+        },
+        {
+          "profile_image_url": "H",
+          "name_of_viewer": "Henry Kim",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+        },
+        {
+          "profile_image_url": "J",
+          "name_of_viewer": "Jessica Garcia",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+        },
+        {
+          "profile_image_url": "M",
+          "name_of_viewer": "Mark Thompson",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+        },
+        {
+          "profile_image_url": "C",
+          "name_of_viewer": "Catherine Evans",
+          "how_much_days_ago": "1 day ago",
+          "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+        },
+        {
+          "profile_image_url": "A",
+          "name_of_viewer": "Andrew Wilson",
+          "how_much_days_ago": "2 days ago",
+          "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+        },
+        {
+          "profile_image_url": "B",
+          "name_of_viewer": "Bella Martinez",
+          "how_much_days_ago": "4 days ago",
+          "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+        },
+        {
+          "profile_image_url": "E",
+          "name_of_viewer": "Ethan Clark",
+          "how_much_days_ago": "3 days ago",
+          "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+        }
+      ]
+  },
+  {
+    "id": "d4e78f34-3b8c-44d5-8f2d-7c7e6c5d91d1",
+    "title": "Mastering Python for Data Analysis | Python Series",
+    "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/python-data-analysis-img.png",
+    "course_video": "pythonmasterclass.com",
+    "channel": {
+        "name": "Data Pros",
+        "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/data-pros-img.png"
+    },
+    "view_count": "7.5K",
+    "published_at": "Apr 20, 2021",
+    "subscribers": "4.1M subscribers",
+    "comments": [
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Samantha Lee",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "David Nguyen",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Emily Smith",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Luis Rodriguez",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nadia Khan",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ryan Johnson",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tara Williams",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kevin Chen",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+      },
+      {
+        "profile_image_url": "G",
+        "name_of_viewer": "Gabriela Martinez",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+      },
+      {
+        "profile_image_url": "F",
+        "name_of_viewer": "Fiona Brown",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Peter Jackson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikram Patel",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+      },
+      {
+        "profile_image_url": "W",
+        "name_of_viewer": "Wendy Thomas",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+      },
+      {
+        "profile_image_url": "O",
+        "name_of_viewer": "Olivia White",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+      },
+      {
+        "profile_image_url": "H",
+        "name_of_viewer": "Henry Kim",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+      },
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jessica Garcia",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Mark Thompson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+      },
+      {
+        "profile_image_url": "C",
+        "name_of_viewer": "Catherine Evans",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Andrew Wilson",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+      },
+      {
+        "profile_image_url": "B",
+        "name_of_viewer": "Bella Martinez",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Ethan Clark",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+      }
+    ]
+},
+{
+    "id": "b0a88d0e-f7c7-4d75-9f57-94cdd84272c1",
+    "title": "Introduction to SQL | Database Management",
+    "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/sql-intro-img.png",
+    "course_video": "sqlcourse.com",
+    "channel": {
+        "name": "SQL Experts",
+        "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/sql-experts-img.png"
+    },
+    "view_count": "4.2K",
+    "published_at": "Jan 12, 2020",
+    "subscribers": "2.7M subscribers",
+    "comments": [
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Samantha Lee",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "David Nguyen",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Emily Smith",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Luis Rodriguez",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nadia Khan",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ryan Johnson",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tara Williams",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kevin Chen",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+      },
+      {
+        "profile_image_url": "G",
+        "name_of_viewer": "Gabriela Martinez",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+      },
+      {
+        "profile_image_url": "F",
+        "name_of_viewer": "Fiona Brown",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Peter Jackson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikram Patel",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+      },
+      {
+        "profile_image_url": "W",
+        "name_of_viewer": "Wendy Thomas",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+      },
+      {
+        "profile_image_url": "O",
+        "name_of_viewer": "Olivia White",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+      },
+      {
+        "profile_image_url": "H",
+        "name_of_viewer": "Henry Kim",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+      },
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jessica Garcia",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Mark Thompson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+      },
+      {
+        "profile_image_url": "C",
+        "name_of_viewer": "Catherine Evans",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Andrew Wilson",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+      },
+      {
+        "profile_image_url": "B",
+        "name_of_viewer": "Bella Martinez",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Ethan Clark",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+      }
+    ]
+},
+{
+    "id": "e3dce192-8f2c-4b3a-83b4-920d6c8bb1f7",
+    "title": "Java Basics | Object-Oriented Programming",
+    "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/java-basics-img.png",
+    "course_video": "javacourse.com",
+    "channel": {
+        "name": "Code Camp",
+        "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/code-camp-img.png"
+    },
+    "view_count": "6.1K",
+    "published_at": "May 5, 2019",
+    "subscribers": "3.5M subscribers",
+    "comments": [
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Samantha Lee",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "David Nguyen",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Emily Smith",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Luis Rodriguez",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nadia Khan",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ryan Johnson",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tara Williams",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kevin Chen",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+      },
+      {
+        "profile_image_url": "G",
+        "name_of_viewer": "Gabriela Martinez",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+      },
+      {
+        "profile_image_url": "F",
+        "name_of_viewer": "Fiona Brown",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Peter Jackson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikram Patel",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+      },
+      {
+        "profile_image_url": "W",
+        "name_of_viewer": "Wendy Thomas",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+      },
+      {
+        "profile_image_url": "O",
+        "name_of_viewer": "Olivia White",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+      },
+      {
+        "profile_image_url": "H",
+        "name_of_viewer": "Henry Kim",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+      },
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jessica Garcia",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Mark Thompson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+      },
+      {
+        "profile_image_url": "C",
+        "name_of_viewer": "Catherine Evans",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Andrew Wilson",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+      },
+      {
+        "profile_image_url": "B",
+        "name_of_viewer": "Bella Martinez",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Ethan Clark",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+      }
+    ]
+},
+{
+    "id": "c8d9b728-7e8b-4e5a-86d1-3b3a8d8b2e7c",
+    "title": "Getting Started with Tableau | Data Visualization",
+    "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/tableau-intro-img.png",
+    "course_video": "tableaucourse.com",
+    "channel": {
+        "name": "Viz Masters",
+        "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/viz-masters-img.png"
+    },
+    "view_count": "5.8K",
+    "published_at": "Sep 22, 2020",
+    "subscribers": "2.8M subscribers",
+    "comments": [
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Samantha Lee",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "David Nguyen",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Emily Smith",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Luis Rodriguez",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nadia Khan",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ryan Johnson",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tara Williams",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kevin Chen",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+      },
+      {
+        "profile_image_url": "G",
+        "name_of_viewer": "Gabriela Martinez",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+      },
+      {
+        "profile_image_url": "F",
+        "name_of_viewer": "Fiona Brown",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Peter Jackson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikram Patel",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+      },
+      {
+        "profile_image_url": "W",
+        "name_of_viewer": "Wendy Thomas",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+      },
+      {
+        "profile_image_url": "O",
+        "name_of_viewer": "Olivia White",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+      },
+      {
+        "profile_image_url": "H",
+        "name_of_viewer": "Henry Kim",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+      },
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jessica Garcia",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Mark Thompson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+      },
+      {
+        "profile_image_url": "C",
+        "name_of_viewer": "Catherine Evans",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Andrew Wilson",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+      },
+      {
+        "profile_image_url": "B",
+        "name_of_viewer": "Bella Martinez",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Ethan Clark",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+      }
+    ]
+},
+{
+    "id": "f7e4d3a5-8a7d-4b7b-83f3-5c8a6c9e2a1b",
+    "title": "Building REST APIs with Node.js | Backend Development",
+    "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/nodejs-apis-img.png",
+    "course_video": "nodejscourse.com",
+    "channel": {
+        "name": "Backend Pros",
+        "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/backend-pros-img.png"
+    },
+    "view_count": "8.6K",
+    "published_at": "Dec 18, 2018",
+    "subscribers": "3.9M subscribers",
+    "comments": [
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Samantha Lee",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "David Nguyen",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Emily Smith",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Luis Rodriguez",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nadia Khan",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ryan Johnson",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tara Williams",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kevin Chen",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+      },
+      {
+        "profile_image_url": "G",
+        "name_of_viewer": "Gabriela Martinez",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+      },
+      {
+        "profile_image_url": "F",
+        "name_of_viewer": "Fiona Brown",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Peter Jackson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikram Patel",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+      },
+      {
+        "profile_image_url": "W",
+        "name_of_viewer": "Wendy Thomas",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+      },
+      {
+        "profile_image_url": "O",
+        "name_of_viewer": "Olivia White",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+      },
+      {
+        "profile_image_url": "H",
+        "name_of_viewer": "Henry Kim",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+      },
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jessica Garcia",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Mark Thompson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+      },
+      {
+        "profile_image_url": "C",
+        "name_of_viewer": "Catherine Evans",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Andrew Wilson",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+      },
+      {
+        "profile_image_url": "B",
+        "name_of_viewer": "Bella Martinez",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Ethan Clark",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+      }
+    ]
+},
+{
+    "id": "a9e7c5d2-4b3b-42d5-8f8e-8c9e6b7e1d2b",
+    "title": "Mastering Git and GitHub | Version Control",
+    "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/git-github-img.png",
+    "course_video": "gitcourse.com",
+    "channel": {
+        "name": "Dev Tools",
+        "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/dev-tools-img.png"
+    },
+    "view_count": "3.9K",
+    "published_at": "Jul 7, 2021",
+    "subscribers": "2.5M subscribers",
+    "comments": [
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Samantha Lee",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "David Nguyen",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Emily Smith",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Luis Rodriguez",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nadia Khan",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ryan Johnson",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tara Williams",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kevin Chen",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+      },
+      {
+        "profile_image_url": "G",
+        "name_of_viewer": "Gabriela Martinez",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+      },
+      {
+        "profile_image_url": "F",
+        "name_of_viewer": "Fiona Brown",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Peter Jackson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikram Patel",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+      },
+      {
+        "profile_image_url": "W",
+        "name_of_viewer": "Wendy Thomas",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+      },
+      {
+        "profile_image_url": "O",
+        "name_of_viewer": "Olivia White",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+      },
+      {
+        "profile_image_url": "H",
+        "name_of_viewer": "Henry Kim",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+      },
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jessica Garcia",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Mark Thompson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+      },
+      {
+        "profile_image_url": "C",
+        "name_of_viewer": "Catherine Evans",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Andrew Wilson",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+      },
+      {
+        "profile_image_url": "B",
+        "name_of_viewer": "Bella Martinez",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Ethan Clark",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+      }
+    ]
+},
+{
+    "id": "b8a9c6f7-6e8d-4b4e-9f7c-8b7e6c8a5d9c",
+    "title": "Docker for Developers | Containerization Basics",
+    "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/docker-basics-img.png",
+    "course_video": "dockercourse.com",
+    "channel": {
+        "name": "Container Pros",
+        "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/container-pros-img.png"
+    },
+    "view_count": "4.5K",
+    "published_at": "Oct 11, 2020",
+    "subscribers": "2.1M subscribers",
+    "comments": [
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Samantha Lee",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "David Nguyen",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Emily Smith",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Luis Rodriguez",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nadia Khan",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ryan Johnson",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tara Williams",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kevin Chen",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+      },
+      {
+        "profile_image_url": "G",
+        "name_of_viewer": "Gabriela Martinez",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+      },
+      {
+        "profile_image_url": "F",
+        "name_of_viewer": "Fiona Brown",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Peter Jackson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikram Patel",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+      },
+      {
+        "profile_image_url": "W",
+        "name_of_viewer": "Wendy Thomas",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+      },
+      {
+        "profile_image_url": "O",
+        "name_of_viewer": "Olivia White",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+      },
+      {
+        "profile_image_url": "H",
+        "name_of_viewer": "Henry Kim",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+      },
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jessica Garcia",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Mark Thompson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+      },
+      {
+        "profile_image_url": "C",
+        "name_of_viewer": "Catherine Evans",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Andrew Wilson",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+      },
+      {
+        "profile_image_url": "B",
+        "name_of_viewer": "Bella Martinez",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Ethan Clark",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+      }
+    ]
+},
+{
+    "id": "e7b8c5d2-8a9d-4b3b-9f7e-8c9e7d6a5e8c",
+    "title": "Introduction to Kubernetes | Orchestration Basics",
+    "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/kubernetes-intro-img.png",
+    "course_video": "kubernetescourse.com",
+    "channel": {
+        "name": "Orchestration Masters",
+        "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/orchestration-masters-img.png"
+    },
+    "view_count": "7.3K",
+    "published_at": "Mar 23, 2019",
+    "subscribers": "3.4M subscribers",
+    "comments": [
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Samantha Lee",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "David Nguyen",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Emily Smith",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Luis Rodriguez",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nadia Khan",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ryan Johnson",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tara Williams",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kevin Chen",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+      },
+      {
+        "profile_image_url": "G",
+        "name_of_viewer": "Gabriela Martinez",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+      },
+      {
+        "profile_image_url": "F",
+        "name_of_viewer": "Fiona Brown",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Peter Jackson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikram Patel",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+      },
+      {
+        "profile_image_url": "W",
+        "name_of_viewer": "Wendy Thomas",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+      },
+      {
+        "profile_image_url": "O",
+        "name_of_viewer": "Olivia White",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+      },
+      {
+        "profile_image_url": "H",
+        "name_of_viewer": "Henry Kim",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+      },
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jessica Garcia",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Mark Thompson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+      },
+      {
+        "profile_image_url": "C",
+        "name_of_viewer": "Catherine Evans",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Andrew Wilson",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+      },
+      {
+        "profile_image_url": "B",
+        "name_of_viewer": "Bella Martinez",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Ethan Clark",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+      }
+    ]
+},
+{
+    "id": "c7b9e6d8-8a4d-4b5a-9f8e-7c9d6a5e4b8e",
+    "title": "CSS Grid and Flexbox | Responsive Web Design",
+    "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/css-grid-flexbox-img.png",
+    "course_video": "cssgridcourse.com",
+    "channel": {
+        "name": "Design Pros",
+        "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/design-pros-img.png"
+    },
+    "view_count": "5.1K",
+    "published_at": "May 30, 2021",
+    "subscribers": "3.0M subscribers",
+    "comments": [
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Samantha Lee",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "David Nguyen",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Emily Smith",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Luis Rodriguez",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nadia Khan",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ryan Johnson",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tara Williams",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kevin Chen",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+      },
+      {
+        "profile_image_url": "G",
+        "name_of_viewer": "Gabriela Martinez",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+      },
+      {
+        "profile_image_url": "F",
+        "name_of_viewer": "Fiona Brown",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Peter Jackson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikram Patel",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+      },
+      {
+        "profile_image_url": "W",
+        "name_of_viewer": "Wendy Thomas",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+      },
+      {
+        "profile_image_url": "O",
+        "name_of_viewer": "Olivia White",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+      },
+      {
+        "profile_image_url": "H",
+        "name_of_viewer": "Henry Kim",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+      },
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jessica Garcia",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Mark Thompson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+      },
+      {
+        "profile_image_url": "C",
+        "name_of_viewer": "Catherine Evans",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Andrew Wilson",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+      },
+      {
+        "profile_image_url": "B",
+        "name_of_viewer": "Bella Martinez",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Ethan Clark",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+      }
+    ]
+},
+{
+    "id": "d8e7c6b9-8f4d-4b6b-9e7c-8c9d6b7e5d8e",
+    "title": "Vue.js Essentials | Modern JavaScript Frameworks",
+    "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/vuejs-img.png",
+    "course_video": "vuejscourse.com",
+    "channel": {
+        "name": "JavaScript Pros",
+        "profile_image_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/javascript-pros-img.png"
+    },
+    "view_count": "6.6K",
+    "published_at": "Aug 15, 2019",
+    "subscribers": "4.0M subscribers",
+    "comments": [
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Samantha Lee",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This course is exceptional! The instructor's explanations are crystal clear."
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "David Nguyen",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The content covered in this course is exactly what I needed to level up my skills!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Emily Smith",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I'm so impressed with the depth of knowledge provided in this course. It's worth every penny!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Luis Rodriguez",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The quizzes and exercises in this course are really helping me solidify my understanding."
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nadia Khan",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The practical examples used in this course make it so much easier to grasp the concepts."
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ryan Johnson",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I'm halfway through this course and already feel more confident in my abilities. Highly recommend!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tara Williams",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The pacing of this course is just right. It keeps me engaged without feeling overwhelmed."
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kevin Chen",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The instructor's enthusiasm for the subject shines through in every lecture. It's contagious!"
+      },
+      {
+        "profile_image_url": "G",
+        "name_of_viewer": "Gabriela Martinez",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I appreciate how the course materials are organized. It makes it easy to follow along and review."
+      },
+      {
+        "profile_image_url": "F",
+        "name_of_viewer": "Fiona Brown",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken several courses on this topic before, but this one stands out for its depth and clarity."
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Peter Jackson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The support from both the instructor and the community forum is invaluable. I never feel stuck for long!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikram Patel",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "I'm amazed at how much I've learned in such a short time. This course is a game-changer!"
+      },
+      {
+        "profile_image_url": "W",
+        "name_of_viewer": "Wendy Thomas",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The real-world applications covered in this course make it immediately relevant to my work."
+      },
+      {
+        "profile_image_url": "O",
+        "name_of_viewer": "Olivia White",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The course materials are updated regularly, which is crucial for staying current in this fast-paced field."
+      },
+      {
+        "profile_image_url": "H",
+        "name_of_viewer": "Henry Kim",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've recommended this course to all my colleagues. It's that good!"
+      },
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jessica Garcia",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The price of this course is a steal considering the quality of instruction and content provided."
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Mark Thompson",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've never left a review for a course before, but this one exceeded all my expectations."
+      },
+      {
+        "profile_image_url": "C",
+        "name_of_viewer": "Catherine Evans",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "I've taken courses from multiple platforms, but this one is hands down the best."
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Andrew Wilson",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The flexibility of this course allows me to learn at my own pace, which is fantastic!"
+      },
+      {
+        "profile_image_url": "B",
+        "name_of_viewer": "Bella Martinez",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I was hesitant to enroll at first, but now I'm kicking myself for not doing it sooner. Don't hesitate!"
+      },
+      {
+        "profile_image_url": "E",
+        "name_of_viewer": "Ethan Clark",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "I've already recommended this course to friends and family. It's truly that good."
+      }
+    ]
+}
+]
+
+
+}
