@@ -14,7 +14,7 @@ app.get("/courses", (req, res) => {
       // If no search query is provided, send back all courses
       res.json(courses.Courses);
     } else {
-      // If search query is provided, filter courses based on the query
+    
       const filteredCourses = courses.Courses.filter((course) =>
         course.title.toLowerCase().includes(title.toLowerCase())
       );
